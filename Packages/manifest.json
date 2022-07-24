@@ -1,9 +1,6 @@
 {
   "dependencies": {
-    "com.inklestudios.ink-unity-integration": "1.0.0",
-    "com.neuecc.unirx": "200.0.0",
-    "com.unity.localization": "1.0.0",
-    "com.unity.ide.visualstudio": "100.0.0"
+    "com.unity.localization": "1.4.0-exp.1"
   },
   "scopedRegistries": [
     {
